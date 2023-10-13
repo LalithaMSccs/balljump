@@ -1,12 +1,12 @@
-**PACMAN**
+**Random walk**
 --------------------------------
-In Pacman project, Create a one Pacman and its detect the screen edge to the Pacman animation. When the pacman detect it's edge it turn back and move on the screen.
+The random walk makes a three ball to bounce between fixed location in different velocity there are three different color balls and the ball is created in css and html.It is made to bounce using javascript programming
 
 **Step to Run the Project**
 --------------------------------
-Step 1 : Once you run the project,the PacMan will appears and move in the direction and reverse if its find the edge.
+Step 1 : Once you run the project,the Balls will bounce and bounce in the fixed location.
 
 **Future Improvement**
 ----------------------------
-The Project is enhanced by adding more styles and animation tho the Pacmen.
+The Project is enhanced by adding special effects like the balls hitting a special target.
 
